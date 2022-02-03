@@ -1,0 +1,18 @@
+[package]
+name = "hyperneat"
+version = "0.0.0"
+edition = "2021"
+authors = ["DoNoVan"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/do-no-van/hyperneat"
+documentation = "https://docs.rs/hyperneat"
+homepage = "https://github.com/do-no-van/hyperneat"
+description = """
+The crate is under construction, this is reserving the name
+"""
+keywords = ["genetic", "algorithm", "neat", "neuroevolution"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
